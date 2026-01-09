@@ -13,3 +13,11 @@ li{
 #special-girl {
     color:aquamarine;
 }
+
+li#special-girl {
+    color: orange;
+}
+
+p.girls {
+    color: purple;
+}
