@@ -1,0 +1,27 @@
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.higlighted {
+    background-color: tomato;
+}
+
+#special-paragraph {
+    font-style: italic;
+}
+
+#main-title {
+    text-decoration: underline;
+}
+
+ul li {
+    color: blue;
+}
+
+div {
+    color:darkkhaki;
+}
