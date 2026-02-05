@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 2em;
+}
+
+.section {
+    font-size: 18px;
+    padding: 5px 8px;
+    text-align: center;
+    background: #ddd;
+    border-radius: 5px;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    cursor: pointer;
+}
+
+.button:hover{
+    color:white;
+    background-color: pink;
+}
+
+.primary{
+    background-color: orange;
+}
+.secondary{
+    background-color: yellow;
+}
+.outline{
+    background-color: white;
+}
